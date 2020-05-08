@@ -22,6 +22,7 @@ Compute statistics between three major cities related to bicycle sharing
 ### Files used
 <<<<<<< HEAD
 new_york_city.csv chicago.csv washington.csv
+<<<<<<< HEAD
 ||||||| 787d8b4
 Include the files used
 =======
@@ -29,6 +30,10 @@ new_york_city.csv
 chicago.csv
 washington.csv
 >>>>>>> documentation
+||||||| 8a4538b
+=======
+These files are not uploaded due to size and have been added to .gitingnore
+>>>>>>> refactoring
 
 ### Credits
 <<<<<<< HEAD

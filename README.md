@@ -5,7 +5,7 @@ May 7th 2020
 Udacity BikeShare Project
 
 ### Description
-Compute statistics on multiple cities data related to bicycle sharing
+Compute statistics between three major cities related to bicycle sharing
 
 ### Files used
 new_york_city.csv

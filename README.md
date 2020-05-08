@@ -11,4 +11,4 @@ Compute statistics on multiple cities related to bicycle sharing
 new_york_city.csv chicago.csv washington.csv
 
 ### Credits
-Thank you to Udacity for providing an opportunity the Project!
+Thank you to Udacity for providing for submitting a Project
